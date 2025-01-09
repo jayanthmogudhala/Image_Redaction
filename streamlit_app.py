@@ -7,7 +7,7 @@ from werkzeug.utils import secure_filename
 import re
 
 # Tesseract OCR configuration
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = r"C:\Users\mogud\OneDrive\Desktop\my_image\Tesseract-OCR"
 
 # Regex Patterns for sensitive data
 sensitive_patterns = {
